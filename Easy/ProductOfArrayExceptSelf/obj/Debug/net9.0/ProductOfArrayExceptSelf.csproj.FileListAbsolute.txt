@@ -1,0 +1,15 @@
+C:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2025\ProductOfArrayExceptSelf\bin\Debug\net9.0\ProductOfArrayExceptSelf.exe
+C:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2025\ProductOfArrayExceptSelf\bin\Debug\net9.0\ProductOfArrayExceptSelf.deps.json
+C:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2025\ProductOfArrayExceptSelf\bin\Debug\net9.0\ProductOfArrayExceptSelf.runtimeconfig.json
+C:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2025\ProductOfArrayExceptSelf\bin\Debug\net9.0\ProductOfArrayExceptSelf.dll
+C:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2025\ProductOfArrayExceptSelf\bin\Debug\net9.0\ProductOfArrayExceptSelf.pdb
+C:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2025\ProductOfArrayExceptSelf\obj\Debug\net9.0\ProductOfArrayExceptSelf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2025\ProductOfArrayExceptSelf\obj\Debug\net9.0\ProductOfArrayExceptSelf.AssemblyInfoInputs.cache
+C:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2025\ProductOfArrayExceptSelf\obj\Debug\net9.0\ProductOfArrayExceptSelf.AssemblyInfo.cs
+C:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2025\ProductOfArrayExceptSelf\obj\Debug\net9.0\ProductOfArrayExceptSelf.csproj.CoreCompileInputs.cache
+C:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2025\ProductOfArrayExceptSelf\obj\Debug\net9.0\ProductOfArrayExceptSelf.sourcelink.json
+C:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2025\ProductOfArrayExceptSelf\obj\Debug\net9.0\ProductOfArrayExceptSelf.dll
+C:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2025\ProductOfArrayExceptSelf\obj\Debug\net9.0\refint\ProductOfArrayExceptSelf.dll
+C:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2025\ProductOfArrayExceptSelf\obj\Debug\net9.0\ProductOfArrayExceptSelf.pdb
+C:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2025\ProductOfArrayExceptSelf\obj\Debug\net9.0\ProductOfArrayExceptSelf.genruntimeconfig.cache
+C:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2025\ProductOfArrayExceptSelf\obj\Debug\net9.0\ref\ProductOfArrayExceptSelf.dll

@@ -1,0 +1,14 @@
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Completed\leetcode\2024\easy\DivisorGame\bin\Debug\net7.0\DivisorGame.exe
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Completed\leetcode\2024\easy\DivisorGame\bin\Debug\net7.0\DivisorGame.deps.json
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Completed\leetcode\2024\easy\DivisorGame\bin\Debug\net7.0\DivisorGame.runtimeconfig.json
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Completed\leetcode\2024\easy\DivisorGame\bin\Debug\net7.0\DivisorGame.dll
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Completed\leetcode\2024\easy\DivisorGame\bin\Debug\net7.0\DivisorGame.pdb
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Completed\leetcode\2024\easy\DivisorGame\obj\Debug\net7.0\DivisorGame.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Completed\leetcode\2024\easy\DivisorGame\obj\Debug\net7.0\DivisorGame.AssemblyInfoInputs.cache
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Completed\leetcode\2024\easy\DivisorGame\obj\Debug\net7.0\DivisorGame.AssemblyInfo.cs
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Completed\leetcode\2024\easy\DivisorGame\obj\Debug\net7.0\DivisorGame.csproj.CoreCompileInputs.cache
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Completed\leetcode\2024\easy\DivisorGame\obj\Debug\net7.0\DivisorGame.dll
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Completed\leetcode\2024\easy\DivisorGame\obj\Debug\net7.0\refint\DivisorGame.dll
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Completed\leetcode\2024\easy\DivisorGame\obj\Debug\net7.0\DivisorGame.pdb
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Completed\leetcode\2024\easy\DivisorGame\obj\Debug\net7.0\DivisorGame.genruntimeconfig.cache
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Completed\leetcode\2024\easy\DivisorGame\obj\Debug\net7.0\ref\DivisorGame.dll

@@ -1,0 +1,14 @@
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Easy\SortedArrayToBST\bin\Debug\net10.0\SortedArrayToBST.exe
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Easy\SortedArrayToBST\bin\Debug\net10.0\SortedArrayToBST.deps.json
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Easy\SortedArrayToBST\bin\Debug\net10.0\SortedArrayToBST.runtimeconfig.json
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Easy\SortedArrayToBST\bin\Debug\net10.0\SortedArrayToBST.dll
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Easy\SortedArrayToBST\bin\Debug\net10.0\SortedArrayToBST.pdb
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Easy\SortedArrayToBST\obj\Debug\net10.0\SortedArrayToBST.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Easy\SortedArrayToBST\obj\Debug\net10.0\SortedArrayToBST.AssemblyInfoInputs.cache
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Easy\SortedArrayToBST\obj\Debug\net10.0\SortedArrayToBST.AssemblyInfo.cs
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Easy\SortedArrayToBST\obj\Debug\net10.0\SortedArrayToBST.csproj.CoreCompileInputs.cache
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Easy\SortedArrayToBST\obj\Debug\net10.0\SortedArrayToBST.dll
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Easy\SortedArrayToBST\obj\Debug\net10.0\refint\SortedArrayToBST.dll
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Easy\SortedArrayToBST\obj\Debug\net10.0\SortedArrayToBST.pdb
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Easy\SortedArrayToBST\obj\Debug\net10.0\SortedArrayToBST.genruntimeconfig.cache
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Easy\SortedArrayToBST\obj\Debug\net10.0\ref\SortedArrayToBST.dll

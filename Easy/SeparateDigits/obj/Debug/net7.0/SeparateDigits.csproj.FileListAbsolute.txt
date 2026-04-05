@@ -1,0 +1,15 @@
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\easy\SeparateDigits\bin\Debug\net7.0\SeparateDigits.exe
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\easy\SeparateDigits\bin\Debug\net7.0\SeparateDigits.deps.json
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\easy\SeparateDigits\bin\Debug\net7.0\SeparateDigits.runtimeconfig.json
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\easy\SeparateDigits\bin\Debug\net7.0\SeparateDigits.dll
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\easy\SeparateDigits\bin\Debug\net7.0\SeparateDigits.pdb
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\easy\SeparateDigits\obj\Debug\net7.0\SeparateDigits.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\easy\SeparateDigits\obj\Debug\net7.0\SeparateDigits.AssemblyInfoInputs.cache
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\easy\SeparateDigits\obj\Debug\net7.0\SeparateDigits.AssemblyInfo.cs
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\easy\SeparateDigits\obj\Debug\net7.0\SeparateDigits.csproj.CoreCompileInputs.cache
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\easy\SeparateDigits\obj\Debug\net7.0\SeparateDigits.sourcelink.json
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\easy\SeparateDigits\obj\Debug\net7.0\SeparateDigits.dll
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\easy\SeparateDigits\obj\Debug\net7.0\refint\SeparateDigits.dll
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\easy\SeparateDigits\obj\Debug\net7.0\SeparateDigits.pdb
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\easy\SeparateDigits\obj\Debug\net7.0\SeparateDigits.genruntimeconfig.cache
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\easy\SeparateDigits\obj\Debug\net7.0\ref\SeparateDigits.dll

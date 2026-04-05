@@ -1,0 +1,15 @@
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\medium\RevealCards\bin\Debug\net8.0\RevealCards.exe
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\medium\RevealCards\bin\Debug\net8.0\RevealCards.deps.json
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\medium\RevealCards\bin\Debug\net8.0\RevealCards.runtimeconfig.json
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\medium\RevealCards\bin\Debug\net8.0\RevealCards.dll
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\medium\RevealCards\bin\Debug\net8.0\RevealCards.pdb
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\medium\RevealCards\obj\Debug\net8.0\RevealCards.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\medium\RevealCards\obj\Debug\net8.0\RevealCards.AssemblyInfoInputs.cache
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\medium\RevealCards\obj\Debug\net8.0\RevealCards.AssemblyInfo.cs
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\medium\RevealCards\obj\Debug\net8.0\RevealCards.csproj.CoreCompileInputs.cache
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\medium\RevealCards\obj\Debug\net8.0\RevealCards.sourcelink.json
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\medium\RevealCards\obj\Debug\net8.0\RevealCards.dll
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\medium\RevealCards\obj\Debug\net8.0\refint\RevealCards.dll
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\medium\RevealCards\obj\Debug\net8.0\RevealCards.pdb
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\medium\RevealCards\obj\Debug\net8.0\RevealCards.genruntimeconfig.cache
+c:\Users\LealS\OneDrive\UMass Framingham\Sam\Documents\Git\Repos\private-projects\Exercises\online-exercises\leetcode\2024\medium\RevealCards\obj\Debug\net8.0\ref\RevealCards.dll

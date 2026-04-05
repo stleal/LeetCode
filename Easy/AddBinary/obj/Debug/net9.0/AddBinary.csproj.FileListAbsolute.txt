@@ -1,0 +1,14 @@
+C:\Users\LealS\OneDrive\Git\Repos\leetcode\Easy\AddBinary\obj\Debug\net9.0\AddBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LealS\OneDrive\Git\Repos\leetcode\Easy\AddBinary\obj\Debug\net9.0\AddBinary.AssemblyInfoInputs.cache
+C:\Users\LealS\OneDrive\Git\Repos\leetcode\Easy\AddBinary\obj\Debug\net9.0\AddBinary.AssemblyInfo.cs
+C:\Users\LealS\OneDrive\Git\Repos\leetcode\Easy\AddBinary\obj\Debug\net9.0\AddBinary.csproj.CoreCompileInputs.cache
+C:\Users\LealS\OneDrive\Git\Repos\leetcode\Easy\AddBinary\bin\Debug\net9.0\AddBinary.exe
+C:\Users\LealS\OneDrive\Git\Repos\leetcode\Easy\AddBinary\bin\Debug\net9.0\AddBinary.deps.json
+C:\Users\LealS\OneDrive\Git\Repos\leetcode\Easy\AddBinary\bin\Debug\net9.0\AddBinary.runtimeconfig.json
+C:\Users\LealS\OneDrive\Git\Repos\leetcode\Easy\AddBinary\bin\Debug\net9.0\AddBinary.dll
+C:\Users\LealS\OneDrive\Git\Repos\leetcode\Easy\AddBinary\bin\Debug\net9.0\AddBinary.pdb
+C:\Users\LealS\OneDrive\Git\Repos\leetcode\Easy\AddBinary\obj\Debug\net9.0\AddBinary.dll
+C:\Users\LealS\OneDrive\Git\Repos\leetcode\Easy\AddBinary\obj\Debug\net9.0\refint\AddBinary.dll
+C:\Users\LealS\OneDrive\Git\Repos\leetcode\Easy\AddBinary\obj\Debug\net9.0\AddBinary.pdb
+C:\Users\LealS\OneDrive\Git\Repos\leetcode\Easy\AddBinary\obj\Debug\net9.0\AddBinary.genruntimeconfig.cache
+C:\Users\LealS\OneDrive\Git\Repos\leetcode\Easy\AddBinary\obj\Debug\net9.0\ref\AddBinary.dll

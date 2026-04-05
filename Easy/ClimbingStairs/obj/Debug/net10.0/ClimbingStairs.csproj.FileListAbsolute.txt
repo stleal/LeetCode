@@ -1,0 +1,14 @@
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Easy\ClimbingStairs\bin\Debug\net10.0\ClimbingStairs.exe
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Easy\ClimbingStairs\bin\Debug\net10.0\ClimbingStairs.deps.json
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Easy\ClimbingStairs\bin\Debug\net10.0\ClimbingStairs.runtimeconfig.json
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Easy\ClimbingStairs\bin\Debug\net10.0\ClimbingStairs.dll
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Easy\ClimbingStairs\bin\Debug\net10.0\ClimbingStairs.pdb
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Easy\ClimbingStairs\obj\Debug\net10.0\ClimbingStairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Easy\ClimbingStairs\obj\Debug\net10.0\ClimbingStairs.AssemblyInfoInputs.cache
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Easy\ClimbingStairs\obj\Debug\net10.0\ClimbingStairs.AssemblyInfo.cs
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Easy\ClimbingStairs\obj\Debug\net10.0\ClimbingStairs.csproj.CoreCompileInputs.cache
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Easy\ClimbingStairs\obj\Debug\net10.0\ClimbingStairs.dll
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Easy\ClimbingStairs\obj\Debug\net10.0\refint\ClimbingStairs.dll
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Easy\ClimbingStairs\obj\Debug\net10.0\ClimbingStairs.pdb
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Easy\ClimbingStairs\obj\Debug\net10.0\ClimbingStairs.genruntimeconfig.cache
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\LeetCode\Easy\ClimbingStairs\obj\Debug\net10.0\ref\ClimbingStairs.dll
