@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\MaximumSumOfArrayAfterKNegations\\MaximumSumOfArrayAfterKNegations.csproj",
-      "projectName": "MaximumSumOfArrayAfterKNegations",
-      "projectPath": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\MaximumSumOfArrayAfterKNegations\\MaximumSumOfArrayAfterKNegations.csproj",
+      "projectUniqueName": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Medium\\LongestSubstringWithoutRepeatingCharacters\\LongestSubstringWithoutRepeatingCharacters.csproj",
+      "projectName": "LongestSubstringWithoutRepeatingCharacters",
+      "projectPath": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Medium\\LongestSubstringWithoutRepeatingCharacters\\LongestSubstringWithoutRepeatingCharacters.csproj",
       "packagesPath": "C:\\Users\\LealS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\MaximumSumOfArrayAfterKNegations\\obj\\",
+      "outputPath": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Medium\\LongestSubstringWithoutRepeatingCharacters\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
