@@ -7,7 +7,6 @@ public class Program
 {
     public static void Main(String[] args)
     {
-        Console.WriteLine("Hello World");
         // Generate 1,000 random computations of binary numbers (0-255)
         var rng = new System.Random();
         for (int k = 0; k < 1000; k++)
