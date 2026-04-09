@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "6kb/zhxMXe8=",
+  "dgSpecHash": "/1v4D0hyEpI=",
   "success": true,
-  "projectFilePath": "c:\\Users\\LealS\\OneDrive\\UMass Framingham\\Sam\\Documents\\Git\\Repos\\private-projects\\Exercises\\online-exercises\\leetcode\\2024\\medium\\RevealCards\\RevealCards.csproj",
+  "projectFilePath": "/home/runner/work/LeetCode/LeetCode/Medium/RevealCards/RevealCards.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\LealS\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.17\\microsoft.netcore.app.ref.8.0.17.nupkg.sha512",
-    "C:\\Users\\LealS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.17\\microsoft.windowsdesktop.app.ref.8.0.17.nupkg.sha512",
-    "C:\\Users\\LealS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.17\\microsoft.aspnetcore.app.ref.8.0.17.nupkg.sha512",
-    "C:\\Users\\LealS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.17\\microsoft.netcore.app.host.win-x64.8.0.17.nupkg.sha512"
+    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/microsoft.netcore.app.ref/8.0.25/microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/microsoft.aspnetcore.app.ref/8.0.25/microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/microsoft.netcore.app.host.linux-x64/8.0.25/microsoft.netcore.app.host.linux-x64.8.0.25.nupkg.sha512"
   ],
   "logs": []
 }

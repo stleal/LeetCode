@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "dgSpecHash": "lmKy0Numbhw=",
+  "success": true,
+  "projectFilePath": "/home/runner/work/LeetCode/LeetCode/Medium/PancakeSorting/PancakeSorting.csproj",
+  "expectedPackageFiles": [
+    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/dapper/2.1.24/dapper.2.1.24.nupkg.sha512",
+    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/microsoft.netcore.platforms/3.1.0/microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/microsoft.win32.registry/4.7.0/microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/runtime.native.system.data.sqlclient.sni/4.7.0/runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0/runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/system.data.sqlclient/4.8.5/system.data.sqlclient.4.8.5.nupkg.sha512",
+    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/system.security.accesscontrol/4.7.0/system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/system.security.principal.windows/4.7.0/system.security.principal.windows.4.7.0.nupkg.sha512",
+    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/microsoft.netcore.app.ref/8.0.25/microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/microsoft.aspnetcore.app.ref/8.0.25/microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/microsoft.netcore.app.host.linux-x64/8.0.25/microsoft.netcore.app.host.linux-x64.8.0.25.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'System.Data.SqlClient' 4.8.5 has a known high severity vulnerability, https://github.com/advisories/GHSA-98g6-xh36-x2p7",
+      "projectPath": "/home/runner/work/LeetCode/LeetCode/Medium/PancakeSorting/PancakeSorting.csproj",
+      "warningLevel": 1,
+      "filePath": "/home/runner/work/LeetCode/LeetCode/Medium/PancakeSorting/PancakeSorting.csproj",
+      "libraryId": "System.Data.SqlClient",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
