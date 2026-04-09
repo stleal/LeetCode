@@ -20,7 +20,7 @@ public class Program
     int[] ans = new int[num];
     for (int i = 0; i < num; i++)
     {
-      var binary = ConvertToBinary(i);
+      var binary = ConvertToBinaryFinal(i);
       var count = binary.Count(x => x == '1');
       ans[i] = count;
     }
