@@ -1,34 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\LealS\\OneDrive\\UMass Framingham\\Sam\\Documents\\Git\\Repos\\private-projects\\Exercises\\online-exercises\\leetcode\\2024\\easy\\SeparateDigits\\SeparateDigits.csproj": {}
+    "/home/runner/work/LeetCode/LeetCode/Easy/SeparateDigits/SeparateDigits.csproj": {}
   },
   "projects": {
-    "c:\\Users\\LealS\\OneDrive\\UMass Framingham\\Sam\\Documents\\Git\\Repos\\private-projects\\Exercises\\online-exercises\\leetcode\\2024\\easy\\SeparateDigits\\SeparateDigits.csproj": {
+    "/home/runner/work/LeetCode/LeetCode/Easy/SeparateDigits/SeparateDigits.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\LealS\\OneDrive\\UMass Framingham\\Sam\\Documents\\Git\\Repos\\private-projects\\Exercises\\online-exercises\\leetcode\\2024\\easy\\SeparateDigits\\SeparateDigits.csproj",
+        "projectUniqueName": "/home/runner/work/LeetCode/LeetCode/Easy/SeparateDigits/SeparateDigits.csproj",
         "projectName": "SeparateDigits",
-        "projectPath": "c:\\Users\\LealS\\OneDrive\\UMass Framingham\\Sam\\Documents\\Git\\Repos\\private-projects\\Exercises\\online-exercises\\leetcode\\2024\\easy\\SeparateDigits\\SeparateDigits.csproj",
-        "packagesPath": "C:\\Users\\LealS\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\LealS\\OneDrive\\UMass Framingham\\Sam\\Documents\\Git\\Repos\\private-projects\\Exercises\\online-exercises\\leetcode\\2024\\easy\\SeparateDigits\\obj\\",
+        "projectPath": "/home/runner/work/LeetCode/LeetCode/Easy/SeparateDigits/SeparateDigits.csproj",
+        "packagesPath": "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages",
+        "outputPath": "/home/runner/work/LeetCode/LeetCode/Easy/SeparateDigits/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\LealS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\MicroFocus.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/runner/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Micro Focus\\Visual COBOL\\NuGetPackages": {},
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -47,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "10.0.200"
       },
       "frameworks": {
         "net7.0": {
@@ -63,12 +54,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[7.0.20, 7.0.20]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.20, 7.0.20]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.107\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }

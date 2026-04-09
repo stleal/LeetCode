@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LemonadeChange")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+64657ab57a81c7bfbc246ec4f3fa9d60162f4555")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17c395f902e65fa9ca8d4208a79344fe6a9e6980")]
 [assembly: System.Reflection.AssemblyProductAttribute("LemonadeChange")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LemonadeChange")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

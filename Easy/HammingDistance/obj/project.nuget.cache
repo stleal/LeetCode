@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZzbrHjm5e9E=",
+  "success": true,
+  "projectFilePath": "/home/runner/work/LeetCode/LeetCode/Easy/HammingDistance/HammingDistance.csproj",
+  "expectedPackageFiles": [
+    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/microsoft.netcore.app.ref/9.0.14/microsoft.netcore.app.ref.9.0.14.nupkg.sha512",
+    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/microsoft.aspnetcore.app.ref/9.0.14/microsoft.aspnetcore.app.ref.9.0.14.nupkg.sha512",
+    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/microsoft.netcore.app.host.linux-x64/9.0.14/microsoft.netcore.app.host.linux-x64.9.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

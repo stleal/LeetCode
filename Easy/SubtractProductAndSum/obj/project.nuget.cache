@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Na4QUJyJjIg=",
+  "dgSpecHash": "2Ovbs7iIJOc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\fRAMily\\LeetCode\\Completed\\leetcode\\2024\\easy\\SubtractProductAndSum\\SubtractProductAndSum.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/runner/work/LeetCode/LeetCode/Easy/SubtractProductAndSum/SubtractProductAndSum.csproj",
+  "expectedPackageFiles": [
+    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -37,17 +37,12 @@ public class Program
     public static bool LemonadeChange(int[] bills)
     {
         // Track how many $5 and $10 bills we have on hand
+        // Begin revenue at zero dollars (represented by fives and tens counts)
         int fives = 0;
         int tens = 0;
 
-        // Begin revenue at zero dollars
-        int revenue = 0;
-
         for (int i = 0; i < bills.Length; i++)
         {
-            // Each lemonade costs $5, so add the bill to revenue
-            revenue += bills[i];
-
             if (bills[i] == 5)
             {
                 // No change needed

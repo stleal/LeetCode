@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MwpF8ta8Nes=",
+  "success": true,
+  "projectFilePath": "/home/runner/work/LeetCode/LeetCode/Medium/StepsToMakeArrayNonDecreasing/StepsToMakeArrayNonDecreasing.csproj",
+  "expectedPackageFiles": [
+    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/microsoft.netcore.app.ref/8.0.25/microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/microsoft.aspnetcore.app.ref/8.0.25/microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/microsoft.netcore.app.host.linux-x64/8.0.25/microsoft.netcore.app.host.linux-x64.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

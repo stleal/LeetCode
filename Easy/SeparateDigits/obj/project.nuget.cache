@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Tr2B71nbCcE=",
+  "dgSpecHash": "dOz5aR3inMI=",
   "success": true,
-  "projectFilePath": "c:\\Users\\LealS\\OneDrive\\UMass Framingham\\Sam\\Documents\\Git\\Repos\\private-projects\\Exercises\\online-exercises\\leetcode\\2024\\easy\\SeparateDigits\\SeparateDigits.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/runner/work/LeetCode/LeetCode/Easy/SeparateDigits/SeparateDigits.csproj",
+  "expectedPackageFiles": [
+    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/microsoft.netcore.app.host.linux-x64/7.0.20/microsoft.netcore.app.host.linux-x64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
