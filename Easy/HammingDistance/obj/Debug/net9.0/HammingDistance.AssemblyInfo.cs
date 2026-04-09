@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HammingDistance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+654901f235956a29feebf375e37ea22725380eab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d1571e1973bb0cf5a5a1169ad5acefec7291ac9")]
 [assembly: System.Reflection.AssemblyProductAttribute("HammingDistance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HammingDistance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

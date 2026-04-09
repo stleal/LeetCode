@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m7nQEK+4VN8=",
+  "dgSpecHash": "udUMuzZkJy0=",
   "success": true,
-  "projectFilePath": "/home/runner/work/LeetCode/LeetCode/Easy/FlippingAnImage/FlippingAnImage.csproj",
-  "expectedPackageFiles": [
-    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/microsoft.netcore.app.ref/9.0.14/microsoft.netcore.app.ref.9.0.14.nupkg.sha512",
-    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/microsoft.aspnetcore.app.ref/9.0.14/microsoft.aspnetcore.app.ref.9.0.14.nupkg.sha512",
-    "/tmp/codeql-scratch-f4087a2e0004bbd9/dbs/csharp/working/packages/microsoft.netcore.app.host.linux-x64/9.0.14/microsoft.netcore.app.host.linux-x64.9.0.14.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\FlippingAnImage\\FlippingAnImage.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
