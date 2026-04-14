@@ -1,0 +1,15 @@
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\obj\Debug\net10.0\EasySolutions.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\obj\Debug\net10.0\EasySolutions.AssemblyInfoInputs.cache
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\obj\Debug\net10.0\EasySolutions.AssemblyInfo.cs
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\obj\Debug\net10.0\EasySolutions.csproj.CoreCompileInputs.cache
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\obj\Debug\net10.0\EasySolutions.sourcelink.json
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\bin\Debug\net10.0\EasySolutions.exe
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\bin\Debug\net10.0\EasySolutions.deps.json
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\bin\Debug\net10.0\EasySolutions.runtimeconfig.json
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\bin\Debug\net10.0\EasySolutions.dll
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\bin\Debug\net10.0\EasySolutions.pdb
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\obj\Debug\net10.0\EasySolutions.dll
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\obj\Debug\net10.0\refint\EasySolutions.dll
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\obj\Debug\net10.0\EasySolutions.pdb
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\obj\Debug\net10.0\EasySolutions.genruntimeconfig.cache
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\obj\Debug\net10.0\ref\EasySolutions.dll

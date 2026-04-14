@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\EasySolutions\\EasySolutions.csproj": {}
+    "c:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\EasySolutions\\EasySolutions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\EasySolutions\\EasySolutions.csproj": {
+    "c:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\EasySolutions\\EasySolutions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\EasySolutions\\EasySolutions.csproj",
+        "projectUniqueName": "c:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\EasySolutions\\EasySolutions.csproj",
         "projectName": "EasySolutions",
-        "projectPath": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\EasySolutions\\EasySolutions.csproj",
+        "projectPath": "c:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\EasySolutions\\EasySolutions.csproj",
         "packagesPath": "C:\\Users\\LealS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\EasySolutions\\obj\\",
+        "outputPath": "c:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\EasySolutions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
