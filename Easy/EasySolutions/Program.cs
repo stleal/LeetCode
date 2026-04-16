@@ -2,7 +2,27 @@
 {
   public static void Main(String[] args)
   {
-    MinOperations();
+    ReverseDegree();
+  }
+
+  public static int ReverseDegree()
+  {
+    string s = "abc";
+    ReverseDegreeOfStringSolution solution = new ReverseDegreeOfStringSolution();
+    int result = solution.ReverseDegree(s);
+    Console.WriteLine("Reverse degree of string " + s + " is: " + result);
+    return result;
+  }
+
+  public static string ClearDigits()
+  {
+    Console.WriteLine("Hello World!");
+    // string s = "1cb34a5abc";
+    string s = "li5i56";
+    ClearDigitsSolution clearDigitsSolution = new ClearDigitsSolution();
+    string result = clearDigitsSolution.ClearDigits(s);
+    Console.WriteLine("String after clearing digits: " + result);
+    return result;
   }
 
   public static int MinOperations()
