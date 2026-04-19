@@ -28,6 +28,16 @@
     return result;
   }
 
+  public static int MinMovesToSeat()
+  {
+    MinMovesToSeatSolution solution = new MinMovesToSeatSolution();
+    int[] seats = new int[] { 3, 1, 5 };
+    int[] students = new int[] { 2, 7, 4 };
+    int result = solution.MinMovesToSeat(seats, students);
+    Console.WriteLine("Minimum number of moves to seat students: " + result);
+    return result;
+  }
+
   public static int ReverseDegree()
   {
     string s = "abc";
