@@ -1,0 +1,14 @@
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\Console\MaximumSumOfArrayAfterKNegations\bin\Debug\net10.0\MaximumSumOfArrayAfterKNegations.exe
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\Console\MaximumSumOfArrayAfterKNegations\bin\Debug\net10.0\MaximumSumOfArrayAfterKNegations.deps.json
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\Console\MaximumSumOfArrayAfterKNegations\bin\Debug\net10.0\MaximumSumOfArrayAfterKNegations.runtimeconfig.json
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\Console\MaximumSumOfArrayAfterKNegations\bin\Debug\net10.0\MaximumSumOfArrayAfterKNegations.dll
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\Console\MaximumSumOfArrayAfterKNegations\bin\Debug\net10.0\MaximumSumOfArrayAfterKNegations.pdb
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\Console\MaximumSumOfArrayAfterKNegations\obj\Debug\net10.0\MaximumSumOfArrayAfterKNegations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\Console\MaximumSumOfArrayAfterKNegations\obj\Debug\net10.0\MaximumSumOfArrayAfterKNegations.AssemblyInfoInputs.cache
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\Console\MaximumSumOfArrayAfterKNegations\obj\Debug\net10.0\MaximumSumOfArrayAfterKNegations.AssemblyInfo.cs
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\Console\MaximumSumOfArrayAfterKNegations\obj\Debug\net10.0\MaximumSumOfArrayAfterKNegations.csproj.CoreCompileInputs.cache
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\Console\MaximumSumOfArrayAfterKNegations\obj\Debug\net10.0\MaximumSumOfArrayAfterKNegations.dll
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\Console\MaximumSumOfArrayAfterKNegations\obj\Debug\net10.0\refint\MaximumSumOfArrayAfterKNegations.dll
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\Console\MaximumSumOfArrayAfterKNegations\obj\Debug\net10.0\MaximumSumOfArrayAfterKNegations.pdb
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\Console\MaximumSumOfArrayAfterKNegations\obj\Debug\net10.0\MaximumSumOfArrayAfterKNegations.genruntimeconfig.cache
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\Console\MaximumSumOfArrayAfterKNegations\obj\Debug\net10.0\ref\MaximumSumOfArrayAfterKNegations.dll
