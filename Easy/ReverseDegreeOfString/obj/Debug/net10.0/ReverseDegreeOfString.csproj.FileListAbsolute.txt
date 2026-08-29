@@ -1,0 +1,15 @@
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ReverseDegreeOfString\bin\Debug\net10.0\ReverseDegreeOfString.exe
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ReverseDegreeOfString\bin\Debug\net10.0\ReverseDegreeOfString.deps.json
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ReverseDegreeOfString\bin\Debug\net10.0\ReverseDegreeOfString.runtimeconfig.json
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ReverseDegreeOfString\bin\Debug\net10.0\ReverseDegreeOfString.dll
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ReverseDegreeOfString\bin\Debug\net10.0\ReverseDegreeOfString.pdb
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ReverseDegreeOfString\obj\Debug\net10.0\ReverseDegreeOfString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ReverseDegreeOfString\obj\Debug\net10.0\ReverseDegreeOfString.AssemblyInfoInputs.cache
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ReverseDegreeOfString\obj\Debug\net10.0\ReverseDegreeOfString.AssemblyInfo.cs
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ReverseDegreeOfString\obj\Debug\net10.0\ReverseDegreeOfString.csproj.CoreCompileInputs.cache
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ReverseDegreeOfString\obj\Debug\net10.0\ReverseDegreeOfString.sourcelink.json
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ReverseDegreeOfString\obj\Debug\net10.0\ReverseDegreeOfString.dll
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ReverseDegreeOfString\obj\Debug\net10.0\refint\ReverseDegreeOfString.dll
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ReverseDegreeOfString\obj\Debug\net10.0\ReverseDegreeOfString.pdb
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ReverseDegreeOfString\obj\Debug\net10.0\ReverseDegreeOfString.genruntimeconfig.cache
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ReverseDegreeOfString\obj\Debug\net10.0\ref\ReverseDegreeOfString.dll

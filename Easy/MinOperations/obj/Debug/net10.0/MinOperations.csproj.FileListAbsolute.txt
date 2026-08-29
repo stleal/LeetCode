@@ -1,0 +1,15 @@
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\MinOperations\bin\Debug\net10.0\MinOperations.exe
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\MinOperations\bin\Debug\net10.0\MinOperations.deps.json
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\MinOperations\bin\Debug\net10.0\MinOperations.runtimeconfig.json
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\MinOperations\bin\Debug\net10.0\MinOperations.dll
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\MinOperations\bin\Debug\net10.0\MinOperations.pdb
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\MinOperations\obj\Debug\net10.0\MinOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\MinOperations\obj\Debug\net10.0\MinOperations.AssemblyInfoInputs.cache
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\MinOperations\obj\Debug\net10.0\MinOperations.AssemblyInfo.cs
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\MinOperations\obj\Debug\net10.0\MinOperations.csproj.CoreCompileInputs.cache
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\MinOperations\obj\Debug\net10.0\MinOperations.sourcelink.json
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\MinOperations\obj\Debug\net10.0\MinOperations.dll
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\MinOperations\obj\Debug\net10.0\refint\MinOperations.dll
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\MinOperations\obj\Debug\net10.0\MinOperations.pdb
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\MinOperations\obj\Debug\net10.0\MinOperations.genruntimeconfig.cache
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\MinOperations\obj\Debug\net10.0\ref\MinOperations.dll

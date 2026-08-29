@@ -1,0 +1,15 @@
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\CreateTargetArray\obj\Debug\net10.0\CreateTargetArray.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\CreateTargetArray\obj\Debug\net10.0\CreateTargetArray.AssemblyInfoInputs.cache
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\CreateTargetArray\obj\Debug\net10.0\CreateTargetArray.AssemblyInfo.cs
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\CreateTargetArray\obj\Debug\net10.0\CreateTargetArray.csproj.CoreCompileInputs.cache
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\CreateTargetArray\obj\Debug\net10.0\CreateTargetArray.sourcelink.json
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\CreateTargetArray\bin\Debug\net10.0\CreateTargetArray.exe
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\CreateTargetArray\bin\Debug\net10.0\CreateTargetArray.deps.json
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\CreateTargetArray\bin\Debug\net10.0\CreateTargetArray.runtimeconfig.json
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\CreateTargetArray\bin\Debug\net10.0\CreateTargetArray.dll
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\CreateTargetArray\bin\Debug\net10.0\CreateTargetArray.pdb
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\CreateTargetArray\obj\Debug\net10.0\CreateTargetArray.dll
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\CreateTargetArray\obj\Debug\net10.0\refint\CreateTargetArray.dll
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\CreateTargetArray\obj\Debug\net10.0\CreateTargetArray.pdb
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\CreateTargetArray\obj\Debug\net10.0\CreateTargetArray.genruntimeconfig.cache
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\CreateTargetArray\obj\Debug\net10.0\ref\CreateTargetArray.dll

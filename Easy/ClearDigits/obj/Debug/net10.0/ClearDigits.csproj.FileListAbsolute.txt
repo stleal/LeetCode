@@ -1,0 +1,15 @@
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ClearDigits\bin\Debug\net10.0\ClearDigits.exe
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ClearDigits\bin\Debug\net10.0\ClearDigits.deps.json
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ClearDigits\bin\Debug\net10.0\ClearDigits.runtimeconfig.json
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ClearDigits\bin\Debug\net10.0\ClearDigits.dll
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ClearDigits\bin\Debug\net10.0\ClearDigits.pdb
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ClearDigits\obj\Debug\net10.0\ClearDigits.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ClearDigits\obj\Debug\net10.0\ClearDigits.AssemblyInfoInputs.cache
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ClearDigits\obj\Debug\net10.0\ClearDigits.AssemblyInfo.cs
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ClearDigits\obj\Debug\net10.0\ClearDigits.csproj.CoreCompileInputs.cache
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ClearDigits\obj\Debug\net10.0\ClearDigits.sourcelink.json
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ClearDigits\obj\Debug\net10.0\ClearDigits.dll
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ClearDigits\obj\Debug\net10.0\refint\ClearDigits.dll
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ClearDigits\obj\Debug\net10.0\ClearDigits.pdb
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ClearDigits\obj\Debug\net10.0\ClearDigits.genruntimeconfig.cache
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\EasySolutions\Solutions\ClearDigits\obj\Debug\net10.0\ref\ClearDigits.dll

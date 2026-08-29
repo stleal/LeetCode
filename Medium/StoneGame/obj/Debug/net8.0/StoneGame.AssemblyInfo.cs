@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StoneGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+654901f235956a29feebf375e37ea22725380eab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+365415d52b2ffa7ebbf9e3a3866a313d6cf9fd5d")]
 [assembly: System.Reflection.AssemblyProductAttribute("StoneGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StoneGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
