@@ -1,0 +1,15 @@
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\CountPairs\bin\Debug\net10.0\CountPairs.exe
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\CountPairs\bin\Debug\net10.0\CountPairs.deps.json
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\CountPairs\bin\Debug\net10.0\CountPairs.runtimeconfig.json
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\CountPairs\bin\Debug\net10.0\CountPairs.dll
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\CountPairs\bin\Debug\net10.0\CountPairs.pdb
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\CountPairs\obj\Debug\net10.0\CountPairs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\CountPairs\obj\Debug\net10.0\CountPairs.AssemblyInfoInputs.cache
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\CountPairs\obj\Debug\net10.0\CountPairs.AssemblyInfo.cs
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\CountPairs\obj\Debug\net10.0\CountPairs.csproj.CoreCompileInputs.cache
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\CountPairs\obj\Debug\net10.0\CountPairs.sourcelink.json
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\CountPairs\obj\Debug\net10.0\CountPairs.dll
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\CountPairs\obj\Debug\net10.0\refint\CountPairs.dll
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\CountPairs\obj\Debug\net10.0\CountPairs.pdb
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\CountPairs\obj\Debug\net10.0\CountPairs.genruntimeconfig.cache
+C:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\CountPairs\obj\Debug\net10.0\ref\CountPairs.dll
