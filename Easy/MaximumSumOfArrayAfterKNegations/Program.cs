@@ -80,9 +80,9 @@ public class Program
       {
         if (nums[i] < nums[j])
         {
-          int local = nums[i];
+          int swap = nums[i];
           nums[i] = nums[j];
-          nums[j] = local;
+          nums[j] = swap;
         }
       }
     }
