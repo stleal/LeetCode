@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\Archive\\FinalValueAfterOperations\\FinalValueAfterOperations.csproj": {}
+    "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\FinalValueAfterOperations\\FinalValueAfterOperations.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\Archive\\FinalValueAfterOperations\\FinalValueAfterOperations.csproj": {
+    "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\FinalValueAfterOperations\\FinalValueAfterOperations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\Archive\\FinalValueAfterOperations\\FinalValueAfterOperations.csproj",
+        "projectUniqueName": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\FinalValueAfterOperations\\FinalValueAfterOperations.csproj",
         "projectName": "FinalValueAfterOperations",
-        "projectPath": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\Archive\\FinalValueAfterOperations\\FinalValueAfterOperations.csproj",
+        "projectPath": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\FinalValueAfterOperations\\FinalValueAfterOperations.csproj",
         "packagesPath": "C:\\Users\\LealS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\Archive\\FinalValueAfterOperations\\obj\\",
+        "outputPath": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\FinalValueAfterOperations\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

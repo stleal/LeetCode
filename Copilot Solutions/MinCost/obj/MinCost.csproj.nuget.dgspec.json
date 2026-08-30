@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\MaxFreqSum\\MaxFreqSum.csproj": {}
+    "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Copilot Solutions\\MinCost\\MinCost.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\MaxFreqSum\\MaxFreqSum.csproj": {
+    "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Copilot Solutions\\MinCost\\MinCost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\MaxFreqSum\\MaxFreqSum.csproj",
-        "projectName": "MaxFreqSum",
-        "projectPath": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\MaxFreqSum\\MaxFreqSum.csproj",
+        "projectUniqueName": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Copilot Solutions\\MinCost\\MinCost.csproj",
+        "projectName": "MinCost",
+        "projectPath": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Copilot Solutions\\MinCost\\MinCost.csproj",
         "packagesPath": "C:\\Users\\LealS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\MaxFreqSum\\obj\\",
+        "outputPath": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Copilot Solutions\\MinCost\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
