@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReverseDegreeOfString")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+365415d52b2ffa7ebbf9e3a3866a313d6cf9fd5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47f7cddbcca7be513ec5bd57304cf26a27a27bda")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReverseDegreeOfString")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReverseDegreeOfString")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
