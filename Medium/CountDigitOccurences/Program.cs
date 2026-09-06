@@ -4,7 +4,6 @@
     {
       int[] nums = { 12, 54, 32, 22 };
       int digit = 2;
-      Program p = new Program();
       int result = CountDigitOccurrences(nums, digit);
       Console.WriteLine(result);
     }
