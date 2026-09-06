@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MaxFreqSum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+942c00a88754678db1e316a4fb8708847ab102e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf3bada6ed66e53bcefb41360d8eb89ae29b52dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("MaxFreqSum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MaxFreqSum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

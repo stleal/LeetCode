@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Medium\\InsertGreatestCommonDivisors\\InsertGreatestCommonDivisors.csproj": {}
+    "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Medium\\InsertGreatestCommonDivisors\\InsertGreatestCommonDivisors.csproj": {}
   },
   "projects": {
-    "c:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Medium\\InsertGreatestCommonDivisors\\InsertGreatestCommonDivisors.csproj": {
+    "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Medium\\InsertGreatestCommonDivisors\\InsertGreatestCommonDivisors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Medium\\InsertGreatestCommonDivisors\\InsertGreatestCommonDivisors.csproj",
+        "projectUniqueName": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Medium\\InsertGreatestCommonDivisors\\InsertGreatestCommonDivisors.csproj",
         "projectName": "InsertGreatestCommonDivisors",
-        "projectPath": "c:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Medium\\InsertGreatestCommonDivisors\\InsertGreatestCommonDivisors.csproj",
+        "projectPath": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Medium\\InsertGreatestCommonDivisors\\InsertGreatestCommonDivisors.csproj",
         "packagesPath": "C:\\Users\\LealS\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Medium\\InsertGreatestCommonDivisors\\obj\\",
+        "outputPath": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Medium\\InsertGreatestCommonDivisors\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
