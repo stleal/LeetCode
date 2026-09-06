@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeftRightDifference")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09e03c7afe1d014d460f7786a5ca455b9d065cb9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+942c00a88754678db1e316a4fb8708847ab102e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeftRightDifference")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeftRightDifference")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
