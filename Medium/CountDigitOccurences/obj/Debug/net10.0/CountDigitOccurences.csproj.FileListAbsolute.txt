@@ -1,0 +1,15 @@
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Medium\CountDigitOccurences\bin\Debug\net10.0\CountDigitOccurences.exe
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Medium\CountDigitOccurences\bin\Debug\net10.0\CountDigitOccurences.deps.json
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Medium\CountDigitOccurences\bin\Debug\net10.0\CountDigitOccurences.runtimeconfig.json
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Medium\CountDigitOccurences\bin\Debug\net10.0\CountDigitOccurences.dll
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Medium\CountDigitOccurences\bin\Debug\net10.0\CountDigitOccurences.pdb
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Medium\CountDigitOccurences\obj\Debug\net10.0\CountDigitOccurences.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Medium\CountDigitOccurences\obj\Debug\net10.0\CountDigitOccurences.AssemblyInfoInputs.cache
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Medium\CountDigitOccurences\obj\Debug\net10.0\CountDigitOccurences.AssemblyInfo.cs
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Medium\CountDigitOccurences\obj\Debug\net10.0\CountDigitOccurences.csproj.CoreCompileInputs.cache
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Medium\CountDigitOccurences\obj\Debug\net10.0\CountDigitOccurences.sourcelink.json
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Medium\CountDigitOccurences\obj\Debug\net10.0\CountDigitOccurences.dll
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Medium\CountDigitOccurences\obj\Debug\net10.0\refint\CountDigitOccurences.dll
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Medium\CountDigitOccurences\obj\Debug\net10.0\CountDigitOccurences.pdb
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Medium\CountDigitOccurences\obj\Debug\net10.0\CountDigitOccurences.genruntimeconfig.cache
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Medium\CountDigitOccurences\obj\Debug\net10.0\ref\CountDigitOccurences.dll

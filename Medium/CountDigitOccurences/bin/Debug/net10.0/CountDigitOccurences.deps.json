@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CountDigitOccurences/1.0.0": {
+        "runtime": {
+          "CountDigitOccurences.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CountDigitOccurences/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
