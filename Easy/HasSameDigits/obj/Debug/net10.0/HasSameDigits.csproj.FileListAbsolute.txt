@@ -1,0 +1,15 @@
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\HasSomeDigits\bin\Debug\net10.0\HasSameDigits.exe
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\HasSomeDigits\bin\Debug\net10.0\HasSameDigits.deps.json
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\HasSomeDigits\bin\Debug\net10.0\HasSameDigits.runtimeconfig.json
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\HasSomeDigits\bin\Debug\net10.0\HasSameDigits.dll
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\HasSomeDigits\bin\Debug\net10.0\HasSameDigits.pdb
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\HasSomeDigits\obj\Debug\net10.0\HasSameDigits.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\HasSomeDigits\obj\Debug\net10.0\HasSameDigits.AssemblyInfoInputs.cache
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\HasSomeDigits\obj\Debug\net10.0\HasSameDigits.AssemblyInfo.cs
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\HasSomeDigits\obj\Debug\net10.0\HasSameDigits.csproj.CoreCompileInputs.cache
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\HasSomeDigits\obj\Debug\net10.0\HasSameDigits.sourcelink.json
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\HasSomeDigits\obj\Debug\net10.0\HasSameDigits.dll
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\HasSomeDigits\obj\Debug\net10.0\refint\HasSameDigits.dll
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\HasSomeDigits\obj\Debug\net10.0\HasSameDigits.pdb
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\HasSomeDigits\obj\Debug\net10.0\HasSameDigits.genruntimeconfig.cache
+c:\Users\LealS\OneDrive\fRAMily\Documents\Git\Repos\STLEAL\Hawks\LeetCode\Easy\HasSomeDigits\obj\Debug\net10.0\ref\HasSameDigits.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\LeftRightDifference\\LeftRightDifference.csproj": {}
+    "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\LeftRightDifference\\LeftRightDifference.csproj": {}
   },
   "projects": {
-    "c:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\LeftRightDifference\\LeftRightDifference.csproj": {
+    "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\LeftRightDifference\\LeftRightDifference.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\LeftRightDifference\\LeftRightDifference.csproj",
+        "projectUniqueName": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\LeftRightDifference\\LeftRightDifference.csproj",
         "projectName": "LeftRightDifference",
-        "projectPath": "c:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\LeftRightDifference\\LeftRightDifference.csproj",
+        "projectPath": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\LeftRightDifference\\LeftRightDifference.csproj",
         "packagesPath": "C:\\Users\\LealS\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\LeftRightDifference\\obj\\",
+        "outputPath": "C:\\Users\\LealS\\OneDrive\\fRAMily\\Documents\\Git\\Repos\\STLEAL\\Hawks\\LeetCode\\Easy\\LeftRightDifference\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
