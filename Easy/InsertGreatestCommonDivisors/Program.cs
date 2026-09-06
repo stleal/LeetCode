@@ -15,25 +15,25 @@ public class Program {
     var result = InsertGreatestCommonDivisors(head);
     while (result != null)
     {
-        Console.WriteLine(result.val);
-        result = result.next;
+      Console.WriteLine(result.val);
+      result = result.next;
     }
   }
 
   public static ListNode InsertGreatestCommonDivisors(ListNode head) {
-      if (head.next == null)
-          return head;
-      var cursor = head;
-      while (cursor.next != null)
-      {
-          var gcd = FindGreatestCommonDenominator(cursor.val, cursor.next.val);
-          var prevNext = cursor.next;
-          ListNode n = new ListNode(gcd, prevNext);
-          cursor.next = n;
-          n.next = prevNext;
-          cursor = n.next;
-      }
-      return head;
+    if (head.next == null)
+        return head;
+    var cursor = head;
+    while (cursor.next != null)
+    {
+      var gcd = FindGreatestCommonDenominator(cursor.val, cursor.next.val);
+      var prevNext = cursor.next;
+      ListNode n = new ListNode(gcd, prevNext);
+      cursor.next = n;
+      n.next = prevNext;
+      cursor = n.next;
+    }
+    return head;
   }
 
   public static ListNode InsertGreatestCommonDivisorsOptimized(ListNode head) {
@@ -58,7 +58,7 @@ public class Program {
     var largest = (x > y) ? x : y;
     for (int i = 1; i <= smallest; i++)
     {
-        gcd = ((largest % i == 0) && (smallest % i == 0))? i : gcd;
+      gcd = ((largest % i == 0) && (smallest % i == 0))? i : gcd;
     }
     return gcd;
   }
