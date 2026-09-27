@@ -13,99 +13,63 @@
  *     }
  * }
  */
-
-import java.util.Arrays; 
-
-class Program 
+import java.util.Arrays;
+class Program
 {
-    
-    private int[] data; 
-    private int count; 
-    private int top; 
-    
-    public boolean findTarget(TreeNode root, int k) 
+    private int[] data;
+    private int count;
+    private int top;
+    public boolean findTarget(TreeNode root, int k)
     {
-        
-        boolean found; 
-        int sum; 
-        
-        count = 0; 
-        top = 0; 
-        found = false; 
-        sum = 0; 
-        
-        findSize(root); 
-        System.out.println("Number of elements: " + count); 
-        
-        data = new int[count]; 
-        
-        preorderTraversal(root); 
-        
-        System.out.println("Data: " + Arrays.toString(data)); 
-        
-        for (int i = 0; i < data.length; i++) 
+        boolean found;
+        int sum;
+        count = 0;
+        top = 0;
+        found = false;
+        sum = 0;
+        findSize(root);
+        System.out.println("Number of elements: " + count);
+        data = new int[count];
+        preorderTraversal(root);
+        System.out.println("Data: " + Arrays.toString(data));
+        for (int i = 0; i < data.length; i++)
         {
-            
-            for (int j = i+1; j < data.length; j++) 
+            for (int j = i+1; j < data.length; j++)
             {
-                
-                sum = data[i] + data[j]; 
-                
-                if (sum == k) 
+                sum = data[i] + data[j];
+                if (sum == k)
                 {
-                    
-                    found = true; 
-                    
+                    found = true;
                 }
-                
             }
-            
         }
-        
-        return found; 
-        
+        return found;
     }
-    
-    public void preorderTraversal(TreeNode root) 
+    public void preorderTraversal(TreeNode root)
     {
-        
-        if (root == null) 
+        if (root == null)
         {
-            
-            return; 
-            
+            return;
         }
-        else 
+        else
         {
-            
-            data[top] = root.val; 
-            top++; 
-            
-            preorderTraversal(root.left); 
-            preorderTraversal(root.right); 
-            
+            data[top] = root.val;
+            top++;
+            preorderTraversal(root.left);
+            preorderTraversal(root.right);
         }
-        
     }
-    
-    public void findSize(TreeNode root) 
+    public void findSize(TreeNode root)
     {
-
-        if (root == null) 
+        if (root == null)
         {
-            
-            return; 
-            
+            return;
         }
-        else 
+        else
         {
-            
-            count++; 
-            findSize(root.left); 
-            findSize(root.right); 
-                
+            count++;
+            findSize(root.left);
+            findSize(root.right);
         }
-        
     }
-    
 }

@@ -8,44 +8,29 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Program 
+class Program
 {
-    
-    public ListNode middleNode(ListNode head) 
+    public ListNode middleNode(ListNode head)
     {
-        
-        int count, end; 
-        ListNode cursor; 
-        
-        count = -1; end = -1; 
-        cursor = head; 
-        
-        count = 0; 
-        
-        // counts how many numbers are in the linked list 
-        while (cursor != null) 
+        int count, end;
+        ListNode cursor;
+        count = -1; end = -1;
+        cursor = head;
+        count = 0;
+        // counts how many numbers are in the linked list
+        while (cursor != null)
         {
-            
-            count++; 
-            cursor = cursor.next; 
-            
+            count++;
+            cursor = cursor.next;
         }
-        
-        end = count / 2; 
-        
-        count = 0; 
-        cursor = head; 
-        
-        while (count < end) 
+        end = count / 2;
+        count = 0;
+        cursor = head;
+        while (count < end)
         {
-            
-            cursor = cursor.next; 
-            count++; 
-            
+            cursor = cursor.next;
+            count++;
         }
-        
-        return cursor; 
-        
+        return cursor;
     }
-    
 }
