@@ -1,3 +1,8 @@
+/*
+ * Problem: Find Length of Longest Consecutive Increasing Subsequence
+ * Description: Given an array of integers, find the length of the longest contiguous run of strictly increasing values.
+ */
+
 class Program
 {
     public int findLengthOfLCIS(int[] nums)

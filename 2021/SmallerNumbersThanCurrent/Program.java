@@ -1,3 +1,8 @@
+/*
+ * Problem: How Many Numbers Are Smaller Than the Current Number
+ * Description: For each element, count how many values in the array are strictly smaller than the current element.
+ */
+
 class Program
 {
     public int[] smallerNumbersThanCurrent(int[] nums)

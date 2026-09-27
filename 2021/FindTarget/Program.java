@@ -14,6 +14,11 @@
  * }
  */
 import java.util.Arrays;
+/*
+ * Problem: Find Target in a Sorted Array
+ * Description: Search for a target value in a sorted array and return its index. If the value is not present, return the insertion index.
+ */
+
 class Program
 {
     private int[] data;

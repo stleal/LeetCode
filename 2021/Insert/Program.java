@@ -1,3 +1,8 @@
+/*
+ * Problem: Insert into a Sorted Array
+ * Description: Insert a value into a sorted array while preserving sorted order and returning the new length of the array.
+ */
+
 class Program
 {
     public ArrayList<Integer> data;

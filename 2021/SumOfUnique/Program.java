@@ -1,3 +1,8 @@
+/*
+ * Problem: Sum of Unique Elements
+ * Description: Sum the values that appear exactly once in the array and ignore all duplicate values.
+ */
+
 class Program
 {
     public int sumOfUnique(int[] nums)

@@ -1,3 +1,8 @@
+/*
+ * Problem: Flip and Invert Image
+ * Description: Reverse each row of a binary matrix and then invert all values from 0 to 1 and 1 to 0.
+ */
+
 class Program
 {
     public int[][] flipAndInvertImage(int[][] image)

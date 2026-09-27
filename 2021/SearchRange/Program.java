@@ -1,3 +1,8 @@
+/*
+ * Problem: Find First and Last Position of Element in Sorted Array
+ * Description: Given a sorted array and a target value, return the first and last indices where the target appears, or [-1, -1] if it does not exist.
+ */
+
 class Program
 {
     public int[] searchRange(int[] nums, int target)

@@ -1,3 +1,8 @@
+/*
+ * Problem: Reverse Integer
+ * Description: Reverse the digits of a signed 32-bit integer and clamp the result to the 32-bit integer range.
+ */
+
 class Program
 {
     public int reverse(int x)

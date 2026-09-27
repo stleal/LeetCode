@@ -1,3 +1,8 @@
+/*
+ * Problem: Product of Array Except Self
+ * Description: Return a new array where each element is the product of all numbers in the original array except the current element.
+ */
+
 class Program
 {
     public ArrayList<Integer> data;

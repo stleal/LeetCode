@@ -1,3 +1,8 @@
+/*
+ * Problem: Palindrome Number
+ * Description: Determine whether an integer is a palindrome without converting it to a string.
+ */
+
 class Program
 {
     public boolean isPalindrome(int x)

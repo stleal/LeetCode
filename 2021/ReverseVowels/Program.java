@@ -1,3 +1,8 @@
+/*
+ * Problem: Reverse Vowels of a String
+ * Description: Reverse only the vowels in a string while keeping the remaining characters in place.
+ */
+
 class Program
 {
     private static final char[] VOWELS = {'a', 'e', 'i', 'o', 'u',

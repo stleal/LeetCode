@@ -1,3 +1,8 @@
+/*
+ * Problem: Single Number
+ * Description: Find the element that appears exactly once in an array while every other element appears twice.
+ */
+
 class Program
 {
     public int singleNumber(int[] nums)

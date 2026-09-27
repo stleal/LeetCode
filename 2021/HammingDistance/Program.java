@@ -1,3 +1,8 @@
+/*
+ * Problem: Hamming Distance
+ * Description: Compute the number of bit positions where two integers differ.
+ */
+
 class Program
 {
     public int hammingDistance(int x, int y)

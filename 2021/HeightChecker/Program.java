@@ -1,3 +1,8 @@
+/*
+ * Problem: Height Checker
+ * Description: Count how many students are out of order when the class is arranged in ascending height order.
+ */
+
 class Program
 {
     public int heightChecker(int[] heights)
